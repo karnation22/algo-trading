@@ -1,0 +1,3 @@
+FINNHUB API Secret Key - bt98k4v48v6v8iv1mdcg
+
+All requests' header made from our server will contain field "X-Finnhub-Secret": "bt98k4v48v6v8iv1mdd0" for authentication. To acknowledge receipt of an event, your endpoint must return a 2xx HTTP status code. Acknowledge events prior to any logic that needs to take place to prevent timeouts. Your endpoint is disabled if it fails to acknowledge events over consecutive days.
