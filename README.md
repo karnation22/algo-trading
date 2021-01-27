@@ -1,2 +1,2 @@
 # algoTrading
-Algorithmic trading practice
+Algorithmic trading practice routine .
